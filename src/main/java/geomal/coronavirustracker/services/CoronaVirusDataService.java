@@ -50,6 +50,7 @@ public class CoronaVirusDataService {
 
          }
         this.allStats = newStats;
+        System.out.println(allStats);
 
 
 
